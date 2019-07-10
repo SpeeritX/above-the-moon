@@ -1,0 +1,57 @@
+﻿  stdafx.cpp
+  Animation.cpp
+c:\users\jedrek\desktop\icytower\icytower\animation.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Background.cpp
+c:\users\jedrek\desktop\icytower\icytower\background.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jedrek\desktop\icytower\icytower\background.cpp(23): warning C4305: '=': truncation from 'double' to 'float'
+  ComboText.cpp
+c:\users\jedrek\desktop\icytower\icytower\combotext.cpp(28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+c:\users\jedrek\desktop\icytower\icytower\game.h(30): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jedrek\desktop\icytower\icytower\game.h(37): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jedrek\desktop\icytower\icytower\game.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jedrek\desktop\icytower\icytower\game.cpp(12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\game.cpp(22): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\game.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jedrek\desktop\icytower\icytower\game.cpp(156): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\game.cpp(252): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\game.cpp(284): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jedrek\desktop\icytower\icytower\game.cpp(296): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\game.cpp(377): warning C4305: '*=': truncation from 'double' to 'float'
+  GameOverScreen.cpp
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(10): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(22): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(25): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(27): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(44): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(45): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(72): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(73): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(74): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\gameoverscreen.cpp(75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  IcyTower.cpp
+c:\users\jedrek\desktop\icytower\icytower\game.h(30): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jedrek\desktop\icytower\icytower\game.h(37): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jedrek\desktop\icytower\icytower\icytower.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\icytower.cpp(41): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\icytower.cpp(42): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\icytower.cpp(86): warning C4305: '-=': truncation from 'double' to 'float'
+  Menu.cpp
+  Platform.cpp
+  Player.cpp
+c:\users\jedrek\desktop\icytower\icytower\player.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jedrek\desktop\icytower\icytower\player.cpp(66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\player.cpp(68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jedrek\desktop\icytower\icytower\player.cpp(114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  StatusBar.cpp
+  UserInterface.cpp
+  Walls.cpp
+c:\users\jedrek\desktop\icytower\icytower\walls.cpp(37): warning C4305: '*=': truncation from 'double' to 'float'
+  Generating code
+  497 of 497 functions (100.0%) were compiled.
+    493 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IcyTower.vcxproj -> C:\Users\Jedrek\Desktop\IcyTower\Release\IcyTower.exe
